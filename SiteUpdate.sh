@@ -1,0 +1,1 @@
+echo $(git add .; git commit -m "Site Updated"; git push origin master;)
